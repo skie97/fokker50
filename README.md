@@ -9,12 +9,14 @@ A([Id UA Type])--Nose High-->B
 A--Nose Low-->C
 B("GA
 T/O Detent")--"< 30°NU"-->D
-D("Roll wings level + Ease nose to horizon")-->F
+D("Roll wings level +
+Ease nose to horizon")-->F
 F{Speed?}--"< 120KIAS"-->G("≅10°ND
 T/O Detent")-->F
 F--"≥ 120KIAS"-->H("S&L Flight")
 B--"≥ 30°NU"-->E
-E("Accept AOB + Ease nose to horizon")--Speed pass 100KIAS-->I
+E("Accept AOB +
+Ease nose to horizon")--Speed pass 100KIAS-->I
 I("Roll Wings Level")-->F
 C("Flt Idle
 Roll wings level
