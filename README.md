@@ -21,9 +21,9 @@ I("Roll Wings Level")-->F
 C("Flt Idle
 Roll wings level
 Pitch @ Max G")-->J{"Speed?"}
-J--">180KIAS"-->K("≅10°NU")
+J--"#62; 180KIAS"-->K("≅10°NU")
 K-->J
-J--"≤180KIAS"-->H
+J--"≤ 180KIAS"-->H
 H-->L{"Gears
 or Flaps
 Overstress?"}
